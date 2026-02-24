@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /devis-decontamination/
+
+Sitemap: https://decontamination-quebec.ca/sitemap-index.xml
