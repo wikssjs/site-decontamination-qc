@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /devis-decontamination/
 
-Sitemap: https://decontamination-quebec.ca/sitemap-index.xml
+Sitemap: https://experts-decontamination.ca/sitemap-index.xml
