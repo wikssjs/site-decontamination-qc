@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 52" fill="none">
+  <!-- Shield body -->
+  <rect x="3" y="6" width="26" height="20" rx="3" fill="#0284c7"/>
+  <!-- Shield bottom triangle -->
+  <polygon points="3,25 29,25 16,42" fill="#0284c7"/>
+  <!-- Inner highlight -->
+  <rect x="5" y="8" width="22" height="16" rx="2" fill="#38bdf8" opacity="0.25"/>
+  <!-- Cross vertical -->
+  <rect x="14" y="11" width="4" height="12" rx="1.5" fill="white"/>
+  <!-- Cross horizontal -->
+  <rect x="9" y="15" width="14" height="4" rx="1.5" fill="white"/>
+  <!-- Wordmark -->
+  <text x="40" y="34" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#0284c7" letter-spacing="-0.5">Experts</text>
+  <text x="134" y="34" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="400" fill="#1c1917" letter-spacing="-0.5">D&#xe9;contamination</text>
+</svg>
